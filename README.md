@@ -1,0 +1,3 @@
+# simplequiz-server
+
+simple-quizのサーバサイドプログラムはひとつのプロジェクトにまとめたい。
